@@ -4,7 +4,7 @@ directories:
 extraResources: ["tools", "external-resources", 'firmwares', "statics", "drivers"]
 
 appId: openblock.cc.openblock-desktop
-productName: "OpenBlock Desktop"
+productName: "YGrobot"
 publish: # empty provider list = don't publish
 
 fileAssociations:
@@ -56,4 +56,4 @@ nsis:
   allowToChangeInstallationDirectory: true
   include: buildResources/installer.nsh
 #   license: LICENSE
-  artifactName: "OpenBlock Desktop ${version} Setup.${ext}"
+  artifactName: "YGrobot ${version} Setup.${ext}"  #安装包名称
