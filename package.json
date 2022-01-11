@@ -3,7 +3,7 @@
   "productName": "YGrobot",
   "description": "YGrobot as a self-contained desktop application",
   "author": "YGrobot",
-  "version": "2.9.9",
+  "version": "2.2.9",
   "license": "MIT",
   "scripts": {
     "preinstall": "npx npm-force-resolutions",
